@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando análise e desenvolvimento de sistemas 
 - 😄 Pronouns: ela/dela
+- 💻 Currículo: https://vitoriabelmiro05.github.io/curriculo-web/
 
 
 
